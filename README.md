@@ -17,3 +17,5 @@ The user of JPDB requires a basic understanding of  HTML, CSS, Bootstrap and Jav
 + By using JPDB, database applications can be developed without using any server side programming/scripting or without installing any kind of database.
 
 ## Release History
++ 0.0.1
+  - Add README.md file
