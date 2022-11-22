@@ -18,4 +18,5 @@ The user of JPDB requires a basic understanding of  HTML, CSS, Bootstrap and Jav
 
 ## Release History
 + 0.0.1
-  - Add README.md file
+  - Add: README.md file
+  - Add: index.html file to [HTML](https://github.com/surajy1/JsonPowerDB-Project/tree/main/HTML) folder
