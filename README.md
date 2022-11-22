@@ -6,13 +6,13 @@
 - [Release History](https://github.com/surajy1/JsonPowerDB-Project#release-history)
 
 ### Description
-JsonPowerDB is a database server developed by [Login2Xplore](https://login2explore.com/), which provides developer friendly database solutions.
+  JsonPowerDB is a database server developed by [Login2Xplore](https://login2explore.com/), which provides developer friendly database solutions.
 
-JPDB provides an easy and fast way for developing database applications without any server side programming or installing any kind of database.
+  JPDB provides an easy and fast way for developing database applications without any server side programming or installing any kind of database.
 
-It provides fast performance CRUD (create, retrieve, update/edit, delete) operations.
+  It provides fast performance CRUD (create, retrieve, update/edit, delete) operations.
 
-The user of JPDB requires a basic understanding of  HTML, CSS, Bootstrap and Javascript.
+  The user of JPDB requires a basic understanding of  HTML, CSS, Bootstrap and Javascript.
 
 ### Benefits of using JsonPowerDB
 + With JsonPowerDB, development is real fun, fast and efficient.
