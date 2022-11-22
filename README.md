@@ -1,4 +1,4 @@
-# JsonPowerDB-Project
+# JsonPowerDB
 
 ## Description
 JsonPowerDB is a database server which provides developer friendly database solutions.
