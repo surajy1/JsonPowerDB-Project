@@ -1,7 +1,7 @@
 # JsonPowerDB
 
 ## Description
-JsonPowerDB is a database server which provides developer friendly database solutions.
+JsonPowerDB is a database server developed by [Login2Xplore](https://login2explore.com/), which provides developer friendly database solutions.
 
 JPDB provides an easy and fast way for developing database applications without any server side programming or installing any kind of database.
 
