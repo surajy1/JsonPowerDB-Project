@@ -1,3 +1,9 @@
+# Table of Contents
++ [Introduction to JsonPowerDB](https://github.com/surajy1/JsonPowerDB-Project#jsonpowerdb)
+  - [Description](https://github.com/surajy1/JsonPowerDB-Project#description)
+  - [Benefits of using JsonPowerDB](https://github.com/surajy1/JsonPowerDB-Project#benefits-of-using-jsonpowerdb)
+  - [Release History](https://github.com/surajy1/JsonPowerDB-Project#release-history)
+
 # JsonPowerDB
 
 ## Description
